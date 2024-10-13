@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in **Tiruppur**
 * ✉️  You can contact me at [ash984377@gmail.com](mailto:ash984377@gmail.com)
-* 🧠 I am an **open-source enthusiast** and an aspiring **mern stack developer** along with other skills like ,Java,C,Python.
+* 🧠 I am an **open-source enthusiast** and an aspiring **mern stack developer** along with other skills like Java, C, Python.
 * 🌱 I’m currently focusing on **DSA.**
 * 👯 I’m looking forward to **be a part of various interesting projects.**
 * 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
